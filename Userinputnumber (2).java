@@ -15,7 +15,7 @@ public class Userinputnumber {
 		int x= in.nextInt(); //Int the i has to be capitalized
 		if (x>90){
 			System.out.println("You received an A");
-		}else if (x>80){
+		}else if (x>=80){
 			System.out.println("You received an B");
 			
 		}else if (x>70){
